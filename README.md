@@ -1,4 +1,4 @@
-von_mises_rms
+von Mises RMS
 =============
 
 !!!!This code does NOT work as intended. Yet.!!!!
